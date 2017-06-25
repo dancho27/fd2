@@ -4,6 +4,7 @@ import 'semantic-ui-css/semantic.min.css';
 import Chat from './Chat';
 import avatar from '../assets/avatars.json';
 
+
 export default class App extends React.Component {
   constructor(props) {
     super(props);
